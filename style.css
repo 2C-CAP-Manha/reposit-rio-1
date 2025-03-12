@@ -1,4 +1,15 @@
 .container{
-text-align: center;
+     text-align: center;
 }
      
+.botoes{
+    background-color:rgba(10, 49, 156, 0.524) ;
+    border-radius:5px; ;
+    color:rgb(243, 243, 4) ;
+    font-weight: 500;
+    border-color: rgb(247, 202, 3);
+}
+
+body{
+    background-color: rgba(97, 97, 105, 0.492);
+}
